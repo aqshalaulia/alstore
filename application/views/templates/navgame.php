@@ -27,7 +27,7 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-light nav-colour" id="nav">
         <div class="container">
-            <a class="navbar-brand text-white" href="<?=base_url('welcome')?>">Gameindonesia.</a>
+            <a class="navbar-brand text-white" href="<?=base_url('welcome')?>">AQSHAL.STORE</a>
             <script src="<?=base_url('assets/');?>js/myscript.js"></script>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
