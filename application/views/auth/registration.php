@@ -22,7 +22,7 @@
 
 
 
-    <title>GameINA - Web Game Portal Indonesia</title>
+    <title>GameINA - Web Game Portal ALSTORE</title>
 </head>
 
 <body>

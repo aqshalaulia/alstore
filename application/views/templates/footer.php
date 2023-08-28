@@ -12,7 +12,7 @@
                 <div class="col-md-6 mt-md-0 mt-3">
 
                     <!-- Content -->
-                    <h3 class="text-uppercase footer-text">Tentang GameINA.</h3>
+                    <h3 class="text-uppercase footer-text">Tentang ALSTORE.</h3>
                     <p>GameINA Adalah portal game pertama di indonesia, yang menyediakan fasilitas untuk para
                         developer
                         indonesia. agar lebih berkarya dan diapresiasi.</p>
@@ -52,16 +52,14 @@
 
                     <ul class="list-unstyled">
                         <li>
-                            <a href="#!" class="text-white"><i class="fab fa-facebook-square"></i> Facebook</a>
+                            <a href="#!" class="text-white"><i class="fab fa-facebook-square"></i> Facebook : Aqshal</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white"><i class="fab fa-instagram"></i> Instagram</a>
+                            <a href="#!" class="text-white"><i class="fab fa-instagram"></i> instagram : aqshal.store</a>
                         </li>
+                       
                         <li>
-                            <a href="#!" class="text-white"><i class="fab fa-twitter-square"></i> Twitter</a>
-                        </li>
-                        <li>
-                            <a href="#!" class="text-white"><i class="fab fa-whatsapp-square"></i> Whatsapp</a>
+                            <a href="#!" class="text-white"><i class="fab fa-whatsapp-square"></i> Whatsapp : 085225648296</a>
                         </li>
                     </ul>
 
