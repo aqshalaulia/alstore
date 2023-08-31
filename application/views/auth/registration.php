@@ -22,7 +22,7 @@
 
 
 
-    <title>GameINA - Web Game Portal ALSTORE</title>
+    <title>ALSTORE - Web Game Portal Indonesia</title>
 </head>
 
 <body>
@@ -30,7 +30,7 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-light nav-colour" id="nav">
         <div class="container">
-            <a class="navbar-brand text-white" href="<?=base_url('welcome')?>">Gameindonesia.</a>
+            <a class="navbar-brand text-white" href="<?=base_url('welcome')?>">ALSTORE</a>
             <script src="<?=base_url('assets/');?>js/myscript.js"></script>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -188,7 +188,7 @@
         <div class="modal-dialog modal-xl modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h3 class="modal-title" id="exampleModalCenterTitle">Login ke gameina sekarang.</h3>
+                    <h3 class="modal-title" id="exampleModalCenterTitle">Login ke alstore sekarang.</h3>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>

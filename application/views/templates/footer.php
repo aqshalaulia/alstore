@@ -13,7 +13,7 @@
 
                     <!-- Content -->
                     <h3 class="text-uppercase footer-text">Tentang ALSTORE.</h3>
-                    <p>GameINA Adalah portal game pertama di indonesia, yang menyediakan fasilitas untuk para
+                    <p>ALSTORE adalah portal game pertama di indonesia, yang menyediakan fasilitas untuk para
                         developer
                         indonesia. agar lebih berkarya dan diapresiasi.</p>
 
@@ -52,14 +52,14 @@
 
                     <ul class="list-unstyled">
                         <li>
-                            <a href="#!" class="text-white"><i class="fab fa-facebook-square"></i> Facebook : Aqshal</a>
+                            <a href="#!" class="text-white"><i class="fab fa-facebook-square"></i> FB : Aqshal</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white"><i class="fab fa-instagram"></i> instagram : aqshal.store</a>
+                            <a href="#!" class="text-white"><i class="fab fa-instagram"></i> IG : aqshal.store</a>
                         </li>
                        
                         <li>
-                            <a href="#!" class="text-white"><i class="fab fa-whatsapp-square"></i> Whatsapp : 085225648296</a>
+                            <a href="#!" class="text-white"><i class="fab fa-whatsapp-square"></i> WA : 085225648296</a>
                         </li>
                     </ul>
 
